@@ -2,4 +2,4 @@
 
 Create a new...
 
-- [Go project](./go)
+- [Go project](./go.md)
