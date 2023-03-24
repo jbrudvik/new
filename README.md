@@ -1,3 +1,5 @@
 # New
 
-Create a new X
+Create a new:
+
+- [Go project](./go)
