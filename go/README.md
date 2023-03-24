@@ -1,4 +1,4 @@
-# New Go project
+# New [Go](https://go.dev) project
 
 ## Create new Go module
 
