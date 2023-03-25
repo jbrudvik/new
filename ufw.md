@@ -21,9 +21,3 @@ $ sudo ufw status verbose
   - Re-allow HTTP traffic: `$ sudo ufw allow http`
 - Allow connections to PostgreSQL: `$ sudo ufw allow postgres`
   - Stop allowing connections to PostgreSQL: `$ sudo ufw delete allow postgres`
-
-## ...and disable the firewall (opening up to all traffic!)
-
-```sh
-$ sudo ufw disable
-```
