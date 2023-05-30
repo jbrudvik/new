@@ -3,7 +3,7 @@
 ## Create new OCaml project
 
 ```sh
-$ PROJECT=<project-name>
+$ PROJECT="project-name"
 
 $ dune init project $PROJECT
 $ cd $PROJECT
